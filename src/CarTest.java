@@ -1,6 +1,6 @@
 public class CarTest {
     public static void main(String[] args) {
-        Car car = new Car("Toyota", "Camry", 2020);
+        Car car = new Car("Ford", "Focus ST", 2013);
         System.out.println("Make: " + car.getMake());
         System.out.println("Model: " + car.getModel());
         System.out.println("Year: " + car.getYear());
